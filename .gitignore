@@ -94,6 +94,8 @@ StyleCopReport.xml
 *.vspscc
 *.vssscc
 .builds
+laboratorna1.csproj
+laboratorna1.sln
 *.pidb
 *.svclog
 *.scc
